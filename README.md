@@ -10,3 +10,5 @@ Install [elementary tweaks](https://github.com/elementary-tweaks/elementary-twea
 Set the scaling for text and the dock size in `Settings/Desktop/Appearance` and change font size in `Settings/Tweaks/Fonts`.
 Adjust terminal and files behaviour in `Settings/Tweaks`.
 Install and choose theme in `Settings/Tweaks/Appearance`. I recommend [Ant Nebula](https://github.com/EliverLara/Ant-Nebula) as gtk+ theme and [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for icons.
+
+Change the behaviour of the `Super` key in `Settings/Keyboard` to `Applications Menu` and enable a `Compose key` to be able to write German Umlaute with my US keyboard.
