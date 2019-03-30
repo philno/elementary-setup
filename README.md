@@ -15,7 +15,7 @@ Change the behaviour of the `Super` key in `Settings/Keyboard` to `Applications 
 
 Install `GNOME Disks` and use it to automount my data partition. 
 
-Install 'tlp' for power saving on my laptop.
+Install `tlp` for power saving on my laptop.
 
 Add my SSH keys to `~/.ssh` and set the correct permissions with: 
 ```
